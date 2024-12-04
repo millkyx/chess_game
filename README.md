@@ -32,11 +32,16 @@ python chess_game.py
 ```
 
 ## Requirements
-Python 3.x
-Pygame
-python-chess
+1. Python 3.x
+2. Pygame
+3. python-chess
 
 ## How to Play
 1. You will play as the white pieces, and the computer plays as the black pieces.
 2. Click on a piece and then on the square where you want to move it.
 3. The game continues until one player wins or a draw is reached.
+
+## Current Status
+
+This project is still a work in progress, as I am a beginner in programming. Some parts of the code may not be fully optimized or completed.
+
